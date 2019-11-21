@@ -1,5 +1,0 @@
-﻿  class1.cpp
-  class2.cpp
-d:\github\trend\design_pattern\class\class1\class2.cpp(33): warning C4326: “main”的返回类型应为“int”而非“void”
-  正在生成代码...
-  class1.vcxproj -> D:\github\trend\design_pattern\class\x64\Debug\class.exe
